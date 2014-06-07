@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+         * Why make this talk?
+
+         * I like technical talks!
+         * Nice to know the language better
+         * Trying != correct answer
+         * Everything is in the standard (it gets better)
+         * http://cppquiz.org
+         * http://accu.org
+         * http://ocppug.org
+
+
+
+
+
+
+
+                                                                               '
